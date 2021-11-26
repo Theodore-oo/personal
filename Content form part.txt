@@ -1,0 +1,27 @@
+<!-- FORM  -->
+<div class="col-lg-6 pl-lg-4 mt-lg-0 mt-6 contact-form" id="message-me">
+<h2 class="contact__title"> Interested to work together? - <span> Let's talk </span></h2>
+
+<form action="#" method="post" class="cf">
+<div class="row">
+<div class="col-lg-6">
+<input type="text" name="message-name" class="form-control mb-30 cf" placeholder="Your Name">
+</div>
+<div class="col-lg-6">
+<input type="email" name="message-email" class="form-control mb-30 cf" placeholder="Your Email">
+</div>
+<div class="col-12">
+<input type="text" name="message-subject" class="form-control mb-30 cf" placeholder="Subject">
+</div>
+<div class="col-12">
+<textarea name="message" id="" cols="30" rows="5" class="form-control mb-30 cf" placeholder="Your Message"></textarea>
+</div>
+<div class="col-12">
+<button type="submit" class="button butto--flex send-message form_button">
+Send Message
+<i class="uil uil-message button__icon"></i>
+</button>
+</div>
+</div>
+</form>
+</div>

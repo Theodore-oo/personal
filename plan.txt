@@ -1,0 +1,39 @@
+Header
+Main
+    HOME
+    ABOUT
+    SKILLS 
+    EDUCATION & EXPERIENCE
+    PORTFOLIO
+    CONTACT US
+Footer
+
+ABOUT
+
+left -> image
+right -> text
+below image -> EXPERIENCEss
+
+SKILLS
+card -----> software SKILLS
+card -> Designs
+
+
+Time Designs
+
+Educations EXPERIENCE
+
+line - date
+card - title
+        institute
+        details - unfolded
+
+PORTFOLIO
+
+< >
+
+Contact US
+left        right
+Address     Form -> Name, Subject, Email, Message 
+Email
+Cell 

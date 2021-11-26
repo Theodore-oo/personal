@@ -1,0 +1,79 @@
+<!--PORTFOLIO-->
+<section class="portfolio section" id="portfolio">
+<h2 class="section__title">Portfolio</h2>
+<span class="section__subtitle"> My most recent works </span>
+<div class="blog-slider">
+<div class="blog-slider__wrp swiper-wrapper">
+
+<!-- For Portfolio item 1 -->
+<div class="blog-slider__item swiper-silde">
+<div class="blog-silder__img">
+<img src="" alt="Portfoio item">
+</div>
+
+<div class="blog-slider__content">
+<span class="blog-slider__code">1st August 2021</span>
+<div class="blog-slider__title"> </div>
+<div class="blog-slider__text"> </div>
+<a href="#portfolio" target="_blank" class="button blog-slider__button button--flex">
+Demo
+<i class="uil uil-play-circle button__icon"></i>
+</a>
+</div>
+</div>
+
+<!-- For Portfolio item 2 -->
+<div class="blog-slider__item swiper-silde">
+<div class="blog-silder__img">
+<img src="" alt="Portfoio item">
+</div>
+
+<div class="blog-slider__content">
+<span class="blog-slider__code">1st August 2021</span>
+<div class="blog-slider__title"> </div>
+<div class="blog-slider__text"> </div>
+<a href="#portfolio" target="_blank" class="button blog-slider__button button--flex">
+Demo
+<i class="uil uil-play-circle button__icon"></i>
+</a>
+</div>
+</div>
+
+<!-- For Portfolio item 3 -->
+<div class="blog-slider__item swiper-silde">
+<div class="blog-silder__img">
+<img src="" alt="Portfoio item">
+</div>
+
+<div class="blog-slider__content">
+<span class="blog-slider__code">1st August 2021</span>
+<div class="blog-slider__title"> </div>
+<div class="blog-slider__text"> </div>
+<a href="#portfolio" target="_blank" class="button blog-slider__button button--flex">
+Demo
+<i class="uil uil-play-circle button__icon"></i>
+</a>
+</div>
+</div>
+
+<!-- For Portfolio item 4 -->
+<div class="blog-slider__item swiper-silde">
+<div class="blog-silder__img">
+<img src="" alt="Portfoio item">
+</div>
+
+<div class="blog-slider__content">
+<span class="blog-slider__code">1st August 2021</span>
+<div class="blog-slider__title"> </div>
+<div class="blog-slider__text"> </div>
+<a href="#portfolio" target="_blank" class="button blog-slider__button button--flex">
+Demo
+<i class="uil uil-play-circle button__icon"></i>
+</a>
+</div>
+</div>
+
+<div class="blog-slider__pagination"></div>
+</div>
+</div>
+</section>
